@@ -34,6 +34,8 @@ end
 
 def capitalize_first_letter
   #code your solution here right after the puts
+  #you'll need to retype the entire string again. make sure it's not capitalized at all!
+  #that's the point of the lab :)
   puts "to placate means to make someone less angry.".capitalize 
 
 end
