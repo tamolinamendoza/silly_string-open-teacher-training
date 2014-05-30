@@ -23,7 +23,7 @@ end
 #4:
 def count_letters
   #code your solution here right after the puts
-  puts "placate".count("placate")
+  puts "placate".size
 end
 
 #5: 
