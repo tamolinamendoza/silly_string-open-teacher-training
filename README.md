@@ -15,7 +15,7 @@ You can read about strings and all the methods available [here](http://www.ruby-
 
 3. Downcase every letter so we're back to "placate"
 
-4. Let's try and count all the letters. Take a look at the documentary and look for the count method. The count method takes an argument of the characters you'd like to count. It's a little confusing, becuase you have to call it on your string, while also passing it your same string as an argument.
+4. Let's try and count all the letters. Take a look at the documentary and look for the size method.
 
 5. Now let's add more words to that string, using `+` just like in math. That's called concatonation. Let's add "to" before the word placate. You'll also want to pay attention to spaces. Computers are stupid, so you have to be explicite. `"hello" + "mom"` will return "hellomom". You'd want to include the space, `"hello " + "mom"`. After we add "to" lets add "means to make someone less angry.".
 
