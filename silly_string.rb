@@ -29,7 +29,7 @@ end
 #5: 
 def concatonate_strings
   #code your solution here right after the puts
-  puts "to " + "placate " + "means to make someone less angry."
+  puts
 end
 
 def capitalize_first_letter
