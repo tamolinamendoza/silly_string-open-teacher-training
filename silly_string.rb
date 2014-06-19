@@ -4,20 +4,20 @@
 #1:
 def my_string
   #code your string here right after the puts
-  puts
+  puts "placate"
 end
 
 #2:
 def capitalize_my_string
   #code your solution here right after the puts
-  puts
+  puts "placate".capitalize
 end
 
 #3:
 def downcase_my_string
   #you'll have to manually type your string in all caps first
   #code your solution here right after the puts
-  puts
+  puts "PLACATE".downcase
 end
 
 #4:
@@ -29,7 +29,7 @@ end
 #5: 
 def concatonate_strings
   #code your solution here right after the puts
-  puts
+  puts "to " + "placate " + "means to make someone less angry."
 end
 
 def capitalize_first_letter
@@ -42,5 +42,5 @@ end
 
 def split_my_string
   #code your solution here
-  puts 
+  puts "to placate means to make someone less angry.".split
 end
