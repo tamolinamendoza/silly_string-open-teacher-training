@@ -51,4 +51,11 @@ describe "silly_string" do
     end
   end
 
+  #a method that is going to swap the case of the letter from up to down and down to up
+  #hI
+
+
+
+
+
 end

@@ -9,6 +9,12 @@ A string in Ruby is an object type that holds words. A string is just data. This
 
 You can read about strings and all the methods available [here](http://www.ruby-doc.org/core-2.1.1/String.html).
 
+##What is that spec directory? 
+
+Rspec is a testing framework that allows us to be sure our code is working exactly as we expect it to. TDD, or Test Driven Development, is a pretty industry wide accepted and embraced method for writing code. You write tests first and then write code that makes the test pass. TDD basicaly gaurantees nothing unexpected in your code will break when you make changes. 
+
+ We don't need to worry about the `.rspec` file, but we do care about the contents of the `spec` directory, and in particular the `silly_string_spec.rb` file. That file is going to test how are code behaves. You don't need to worry about writing your own tests, just reading them and understanding how they work. We'll go more in depth with reading tests in later labs.
+
 1. Create a string that contains just the word "placate"
 
 2. Now, let's make every letter a capital letter. It should look like "PLACATE"
