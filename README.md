@@ -15,6 +15,8 @@ Rspec is a testing framework that allows us to be sure our code is working exact
 
  We don't need to worry about the `.rspec` file, but we do care about the contents of the `spec` directory, and in particular the `silly_string_spec.rb` file. That file is going to test how are code behaves. You don't need to worry about writing your own tests, just reading them and understanding how they work. We'll go more in depth with reading tests in later labs.
 
+
+##Challenge:
 1. Create a string that contains just the word "placate"
 
 2. Now, let's make every letter a capital letter. It should look like "PLACATE"
