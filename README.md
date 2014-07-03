@@ -25,7 +25,7 @@ Rspec is a testing framework that allows us to be sure our code is working exact
 
 4. Let's try and count all the letters. Take a look at the [documentation](http://www.ruby-doc.org/core-2.1.1/String.html) and look for the size method.
 
-5. Now let's add more words to that string, using `+` just like in math. That's called concatonation. Let's add "to" before the word placate. You'll also want to pay attention to spaces. Computers are stupid, so you have to be explicite. `"hello" + "mom"` will return "hellomom". You'd want to include the space, `"hello " + "mom"`. After we add "to" lets add "means to make someone less angry.".
+5. Now let's add more words to that string, using `+` just like in math. That's called concatenation. Let's add "to" before the word placate. You'll also want to pay attention to spaces. Computers are stupid, so you have to be explicit. `"hello" + "mom"` will return "hellomom". You'd want to include the space, `"hello " + "mom"`. After we add "to" lets add "means to make someone less angry.".
 
 6. Now let's capitalize just the first letter of the sentence. We want to pay attention to proper punctuation. 
 
