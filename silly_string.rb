@@ -10,7 +10,7 @@ end
 #2:
 def capitalize_my_string
   #code your solution here right after the puts
-  puts "placate".capitalize
+  puts "placate".upcase
 end
 
 #3:
