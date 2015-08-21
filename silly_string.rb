@@ -1,41 +1,22 @@
 #code your solutions here
 
 
-#1:
-def my_string
-  #code your string here right after the puts
-end
+#1:  Create a string that contains your favorite word. It can be in any language!
 
-#2:
-def capitalize_my_string
-  #code your solution here right after the puts
-end
-
-#3:
-def downcase_my_string
-  #you'll have to manually type your string in all caps first
-  #code your solution here right after the puts
-end
-
-#4:
-def count_letters
-  #code your solution here right after the puts
-
-end
-
-#5: 
-def concatonate_strings
-  #code your solution here right after the puts
-end
-
-def capitalize_first_letter
-  #code your solution here right after the puts
-  #you'll need to retype the entire string again. make sure it's not capitalized at all!
-  #that's the point of the lab :)
-
-end
+#2: Using a method built into ruby, capitalize every letter in the string you just created
 
 
-def split_my_string
-  #code your solution here
-end
+
+#3: Now let's make all the characters lowercase in the string below:
+"IM NOT SHOUTING"
+
+#4: Using a method built into ruby, count how many letters are in the string below:
+"supercalifragilisticexpialidocious"
+
+#5: Let's add the two strings together below using concatonation.
+"wow" "mom"
+
+#6. Let's capitalize the first character of the string below:
+
+"i really like programming"
+
