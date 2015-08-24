@@ -1,6 +1,6 @@
 # Silly String
 
-A string in Ruby is an data type that holds words, numbers, and other characters. A string is just data. This lab is going to be a refresher on how to create and manipulate strings. You'll code your solution in silly_string.rb 
+A string in Ruby is an data type that holds words, numbers, and other characters. A string is just data. This lab is going to be a refresher on how to create and manipulate strings. You'll code your solution in `silly_string.rb`
 
 You can read about strings and all the methods available [here](http://www.ruby-doc.org/core-2.1.1/String.html`).
 
@@ -20,8 +20,7 @@ You can read about strings and all the methods available [here](http://www.ruby-
 
 6. Now let's capitalize just the first letter of the sentence `"i really like programming"`
 
-7. Now let's try to split that sentence into strings that each contain and individual word. The `split` method takes an argument of what you're splitting by. You put that argument between quotation marks. You would pass a comma is you were splitting a comma-delimited list. Here we're splitting by a space, so you you'd pass a space between quotes.
-
+7. Let's take the string `"Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"`. We want to use the `gsub` method to switch all `A` for `O`, as well as all `a` for `o`. We'll need to chain `gsub`s.
 
 
 
