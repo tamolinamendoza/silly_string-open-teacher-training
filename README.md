@@ -4,7 +4,7 @@ A string in Ruby is an data type that holds words, numbers, and other characters
 
 You can read about strings and all the methods available [here](http://www.ruby-doc.org/core-2.1.1/String.html).
 
-
+NOTE: This lab does not have tests, so the `learn` command wont work. Instead, just write your code and test it out manually by running `ruby silly_string.rb` in the command line. If the output looks like it's intended to, you're good to go and can use `learn submit` to submit your work!
 
 
 ##Challenge:
