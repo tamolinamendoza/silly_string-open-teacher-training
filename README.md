@@ -24,3 +24,5 @@ NOTE: This lab does not have tests, so the `learn` command wont work. Instead, j
 
 
 
+
+<a href='https://learn.co/lessons/silly_string' data-visibility='hidden'>View this lesson on Learn.co</a>
